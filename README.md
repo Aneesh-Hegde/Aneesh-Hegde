@@ -75,4 +75,3 @@ I am a Software Engineer and Infrastructure enthusiast focused on **DevOps**, **
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/wbtJjtqIZSEAAAAM/celebi-pokemon.gif"  />
