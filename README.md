@@ -11,24 +11,24 @@ I am a Software Engineer and Infrastructure enthusiast focused on **DevOps**, **
 
 ### 🛠 Tech Stack & Tools
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/gRPC-54B848?style=flat&logo=grpc&logoColor=white" height="35" alt="grpc logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="35" alt="grpc logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Envoy-60B5CC?style=flat&logo=envoyproxy&logoColor=white" height="35" alt="envoy logo" />
+  <img src="https://cdn.simpleicons.org/envoyproxy/AC6199" height="35" alt="envoy logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white" height="35" alt="istio logo" />
+  <img src="https://cdn.simpleicons.org/istio/466BB0" height="35" alt="istio logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="35" alt="prometheus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="35" alt="prometheus logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="35" alt="grafana logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Jaeger-65D2FE?style=flat&logo=jaeger&logoColor=white" height="35" alt="jaeger logo" />
+  <img src="https://cdn.simpleicons.org/jaeger/66CFE5" height="35" alt="jaeger logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
   <img width="12" />
@@ -57,7 +57,7 @@ I am a Software Engineer and Infrastructure enthusiast focused on **DevOps**, **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="35" alt="vim logo" />
-</div>
+</p>
 
 ### 📬 Connect with me
 
