@@ -71,7 +71,7 @@ I am a Software Engineer and Infrastructure enthusiast focused on **DevOps**, **
 
 <div align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aneesh-Hegde&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Aneesh-Hegde&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&hide=javascript,typescript" height="180" alt="languages graph" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Aneesh-Hegde&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&hide=javascript,typescript,html,css" height="180" alt="languages graph" />
 
 ###
 
